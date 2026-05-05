@@ -1,0 +1,32 @@
+Time resolution is 1 ps
+ERROR: Could not open vcd file mips.vcd. A VCD file by name mips_pipeline.vcd has already been opened. Only one VCD file is allowed to be open.
+                   0 | PC=         0 | IF/ID_IR=xxxxxxxx | ID/EX_IR=xxxxxxxx | EX/MEM_IR=xxxxxxxx | MEM/WB_IR=00000000 | R2=         2
+                   7 | PC=         1 | IF/ID_IR=280a00c8 | ID/EX_IR=xxxxxxxx | EX/MEM_IR=xxxxxxxx | MEM/WB_IR=00000000 | R2=         2
+                  17 | PC=         1 | IF/ID_IR=280a00c8 | ID/EX_IR=280a00c8 | EX/MEM_IR=xxxxxxxx | MEM/WB_IR=xxxxxxxx | R2=         2
+                  25 | PC=         1 | IF/ID_IR=280a00c8 | ID/EX_IR=280a00c8 | EX/MEM_IR=280a00c8 | MEM/WB_IR=xxxxxxxx | R2=         2
+                  27 | PC=         2 | IF/ID_IR=28020001 | ID/EX_IR=280a00c8 | EX/MEM_IR=280a00c8 | MEM/WB_IR=xxxxxxxx | R2=         2
+                  37 | PC=         2 | IF/ID_IR=28020001 | ID/EX_IR=28020001 | EX/MEM_IR=280a00c8 | MEM/WB_IR=280a00c8 | R2=         2
+                  45 | PC=         2 | IF/ID_IR=28020001 | ID/EX_IR=28020001 | EX/MEM_IR=28020001 | MEM/WB_IR=280a00c8 | R2=         2
+                  47 | PC=         3 | IF/ID_IR=0e94a000 | ID/EX_IR=28020001 | EX/MEM_IR=28020001 | MEM/WB_IR=280a00c8 | R2=         2
+                  57 | PC=         3 | IF/ID_IR=0e94a000 | ID/EX_IR=0e94a000 | EX/MEM_IR=28020001 | MEM/WB_IR=28020001 | R2=         2
+                  65 | PC=         3 | IF/ID_IR=0e94a000 | ID/EX_IR=0e94a000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=28020001 | R2=         2
+                  67 | PC=         4 | IF/ID_IR=21430000 | ID/EX_IR=0e94a000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=28020001 | R2=         2
+                  77 | PC=         4 | IF/ID_IR=21430000 | ID/EX_IR=21430000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=0e94a000 | R2=         2
+                  85 | PC=         4 | IF/ID_IR=21430000 | ID/EX_IR=21430000 | EX/MEM_IR=21430000 | MEM/WB_IR=0e94a000 | R2=         2
+                  87 | PC=         5 | IF/ID_IR=0e94a000 | ID/EX_IR=21430000 | EX/MEM_IR=21430000 | MEM/WB_IR=0e94a000 | R2=         2
+                  97 | PC=         5 | IF/ID_IR=0e94a000 | ID/EX_IR=0e94a000 | EX/MEM_IR=21430000 | MEM/WB_IR=21430000 | R2=         2
+                 105 | PC=         5 | IF/ID_IR=0e94a000 | ID/EX_IR=0e94a000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=21430000 | R2=         2
+                 107 | PC=         6 | IF/ID_IR=14431000 | ID/EX_IR=0e94a000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=21430000 | R2=         2
+                 117 | PC=         6 | IF/ID_IR=14431000 | ID/EX_IR=14431000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=0e94a000 | R2=         2
+                 125 | PC=         6 | IF/ID_IR=14431000 | ID/EX_IR=14431000 | EX/MEM_IR=14431000 | MEM/WB_IR=0e94a000 | R2=         2
+                 127 | PC=         7 | IF/ID_IR=2c630001 | ID/EX_IR=14431000 | EX/MEM_IR=14431000 | MEM/WB_IR=0e94a000 | R2=         2
+                 137 | PC=         7 | IF/ID_IR=2c630001 | ID/EX_IR=2c630001 | EX/MEM_IR=14431000 | MEM/WB_IR=14431000 | R2=         2
+                 145 | PC=         7 | IF/ID_IR=2c630001 | ID/EX_IR=2c630001 | EX/MEM_IR=2c630001 | MEM/WB_IR=14431000 | R2=         2
+                 147 | PC=         8 | IF/ID_IR=0e94a000 | ID/EX_IR=2c630001 | EX/MEM_IR=2c630001 | MEM/WB_IR=14431000 | R2=         0
+                 157 | PC=         8 | IF/ID_IR=0e94a000 | ID/EX_IR=0e94a000 | EX/MEM_IR=2c630001 | MEM/WB_IR=2c630001 | R2=         0
+                 165 | PC=         8 | IF/ID_IR=0e94a000 | ID/EX_IR=0e94a000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=2c630001 | R2=         0
+                 167 | PC=         9 | IF/ID_IR=3460fffc | ID/EX_IR=0e94a000 | EX/MEM_IR=0e94a000 | MEM/WB_IR=2c630001 | R2=         0
+                 177 | PC=         9 | IF/ID_IR=3460fffc | ID/EX_IR=3460fffc | EX/MEM_IR=0e94a000 | MEM/WB_IR=0e94a000 | R2=         0
+                 185 | PC=         9 | IF/ID_IR=3460fffc | ID/EX_IR=3460fffc | EX/MEM_IR=3460fffc | MEM/WB_IR=0e94a000 | R2=         0
+                 187 | PC=        10 | IF/ID_IR=2542fffe | ID/EX_IR=3460fffc | EX/MEM_IR=3460fffc | MEM/WB_IR=0e94a000 | R2=         0
+             
